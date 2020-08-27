@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Venus
+  m_EditorClassIdentifier: 
+  world: 2
+  leftData: "Venus, the second planet from the sun, is named for the Roman goddess
+    of love and beauty. \n\nThe planet (the only planet named after a female) may
+    have been named for the most beautiful deity of her pantheon because it shone
+    the brightest of the five planets known to ancient astronomers"
+  rightData: "- Found by: Babylonian astronomers\r\n\r\n- First record: 17th century
+    BC\r\n\r\n- Moons: none\r\n\r\n- Temperature: 462\xB0C\r\n\r\n- Orbit distance:
+    108,209,475 km\r\n\r\n- Diameter: 12,104 km"

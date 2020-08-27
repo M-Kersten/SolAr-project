@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Moon
+  m_EditorClassIdentifier: 
+  world: 5
+  leftData: "The Moon (or Luna) is the Earth\x19s only natural satellite and was formed
+    4.6 billion years ago around some 30\x1350 million years after the formation of
+    the solar system. \n\nThe Moon is in synchronous rotation with Earth meaning the
+    same side is always facing the Earth. The first unmanned mission to the Moon was
+    in 1959 by the Soviet Lunar Program with the first manned landing being Apollo
+    11 in 1969."
+  rightData: "- Formed: 4.51 billion years ago\r\n\r\n- First visited: 1969\n\n- Temperature:
+    -233\xB0C to 123\xB0C\r\n\r\n- Orbit distance: 384,400 km\r\n\r\n- Diameter: 3,475
+    km"

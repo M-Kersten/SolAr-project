@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Uranus
+  m_EditorClassIdentifier: 
+  world: 8
+  leftData: "Uranus is the seventh planet from the Sun. While being visible to the
+    naked eye, it was not recognised as a planet due to its dimness and slow orbit.
+    \n\nUranus became the first planet discovered with the use of a telescope. Uranus
+    is tipped over on its side with an axial tilt of 98 degrees. It is often described
+    as \x1Crolling around the Sun on its side.\x1D"
+  rightData: "- Found by: William Herschel\r\n\r\n- First record: March 13th 1781\r\n\r\n-
+    Moons: 27\r\n\r\n- Temperature: -216\xB0C\r\n\r\n- Orbit distance: 2,870,658,186
+    km\r\n\r\n- Diameter: 51,118 km"

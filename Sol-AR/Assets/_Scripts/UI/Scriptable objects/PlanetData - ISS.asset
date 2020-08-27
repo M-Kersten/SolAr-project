@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - ISS
+  m_EditorClassIdentifier: 
+  world: 10
+  leftData: "The International Space Station is a large spacecraft in orbit around
+    Earth. It serves as a home where crews of astronauts and cosmonauts live. \n\nThe
+    space station is also a unique science laboratory. Several nations worked together
+    to build and use the space station."
+  rightData: "- Built by: NASA, ESA, Japan & Russian\r\n\r\n- Construction started:
+    20 November 1998\r\n\r\n- Modules: 16\r\n\r\n- Astronauts: 3 to 6 at all times\r\n\r\n-
+    Orbit time: 92 minutes\r\n\r\n- Size: 109 meters by 73 meters"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Mercury
+  m_EditorClassIdentifier: 
+  world: 1
+  leftData: "Mercury is the smallest and fastest planet in the solar system. It is
+    also the closest planet to the sun. \n\nIt is named after the Roman messenger
+    god Mercury, the fastest Roman god. The planet Mercury was known by ancient people
+    thousands of years ago."
+  rightData: "- Found by: Assyrian astronomers\n\r\n- First record: 14th century BC\r\n\r\n-
+    Moons: none\r\n\r\n- Temperature: -173\xB0C to 427\xB0C\r\n\r\n- Orbit distance:
+    57,909,227 km\r\n\r\n- Diameter: 4,879 km"

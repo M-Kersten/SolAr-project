@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Neptune
+  m_EditorClassIdentifier: 
+  world: 9
+  leftData: "Neptune is the eighth planet from the Sun making it the most distant
+    in the solar system. \n\nThis gas giant planet may have formed much closer to
+    the Sun in early solar system history before migrating to its present position.
+    It is not visible to the naked eye and was first observed in 1846. Its position
+    was determined using mathematical predictions. It was named after the Roman god
+    of the sea."
+  rightData: "- Found by: Urbain Le Verrier & Johann Galle\r\n\r\n- First record:
+    September 23rd 1846\r\n\r\n- Moons: 14\r\n\r\n- Temperature: -214\xB0C\r\n\r\n-
+    Orbit distance: 4,498,396,441 km\r\n\r\n- Diameter: 48,682 km"

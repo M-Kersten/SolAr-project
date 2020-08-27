@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5ba36aab5541544964bf0c57d4320a, type: 3}
+  m_Name: PlanetData - Mars
+  m_EditorClassIdentifier: 
+  world: 3
+  leftData: "Mars is the fourth planet from the Sun and is the second smallest planet
+    in the solar system.\n\nNamed after the Roman god of war, Mars is also often described
+    as the \x1CRed Planet\x1D due to its reddish appearance. Mars is a terrestrial
+    planet with a thin atmosphere composed primarily of carbon dioxide."
+  rightData: "- Found by: Egyptian astronomers\r\n\r\n- First record: 2nd millenium
+    BC\r\n\r\n- Moons: 2 (Phobos & Deimos)\r\n\r\n- Temperature: -153\xB0C to 20\xB0C
+    \r\n\r\n- Orbit distance: 227,943,824 km\r\n\r\n- Diameter: 6,792 km"
